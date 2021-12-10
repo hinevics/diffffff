@@ -112,6 +112,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-#
+# vscode
 /.vscode
 .cfg
+
+# work folder
+text/
